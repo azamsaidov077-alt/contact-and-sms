@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+
+# PyCharm configs
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Keraksiz fayllar
+main.py
+egzame.py
