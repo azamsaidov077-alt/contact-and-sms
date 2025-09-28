@@ -1,14 +1,18 @@
 # Virtual environment
-venv/
 .venv/
+venv/
 
-# PyCharm configs
+# PyCharm sozlamalari
 .idea/
 
 # Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Keraksiz fayllar
-main.py
+# Boshqa loyihalar (agar tashlamoqchi bo‘lsangiz)
+decorator.py
 egzame.py
+sms and contact.py
+
