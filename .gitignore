@@ -1,3 +1,9 @@
+# Barcha python fayllarni inkor qilamiz
+*.py
+
+# Faqat bankomat.py qolsin
+!bankomat.py
+
 # Virtual environment
 .venv/
 venv/
@@ -10,9 +16,4 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Boshqa loyihalar (agar tashlamoqchi bo‘lsangiz)
-decorator.py
-egzame.py
-sms and contact.py
 
