@@ -46,3 +46,25 @@ from unittest import result
 # c=copy.deepcopy(a)
 # print(id(a))
 # print(id(c))
+
+# import copy
+# a = [[1, 2, 3], [4, 5, 6]]
+# b=copy.copy(a)
+# c=copy.deepcopy(a)
+# a[0][0] = 99
+# print(a)
+# print(b)
+# print(c)
+
+# def count_dec(func):
+#     def wrapper():
+#         print("azam")
+#         func()
+#         print("saidov")
+#
+#     return wrapper
+#
+# @count_dec
+# def hello():
+#     print("hello")
+# hello()
