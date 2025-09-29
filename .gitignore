@@ -2,12 +2,12 @@
 venv/
 .venv/
 
-# PyCharm sozlamalari
-.idea/
-
 # Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
+
+# IDE sozlamalari
+.idea/
+.vscode/
+
 
