@@ -1,12 +1,6 @@
-# Barcha python fayllarni inkor qilamiz
-*.py
-
-# Faqat bankomat.py qolsin
-!bankomat.py
-
 # Virtual environment
-.venv/
 venv/
+.venv/
 
 # PyCharm sozlamalari
 .idea/
@@ -16,3 +10,4 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
