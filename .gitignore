@@ -4,8 +4,6 @@ venv/
 
 # Python cache
 __pycache__/
-*.pyc
-
 # IDE sozlamalari
 .idea/
 .vscode/
