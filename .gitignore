@@ -1,8 +1,0 @@
-# Python cache va muhit
-__pycache__/
-*.pyc
-.venv/
-.env
-
-# Mahalliy bazalar
-*.db
